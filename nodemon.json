@@ -1,0 +1,5 @@
+{
+    "watch": ["*.cs"],
+    "ext": "cs",
+    "exec": "dotnet run Program.cs"
+}
